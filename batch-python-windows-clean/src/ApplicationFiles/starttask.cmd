@@ -1,2 +1,2 @@
-copy application.py %AZ_BATCH_NODE_SHARED_DIR%
+copy *.* %AZ_BATCH_NODE_SHARED_DIR%
 cd %AZ_BATCH_NODE_SHARED_DIR%
