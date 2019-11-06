@@ -39,9 +39,9 @@ configuration suits the job can typically be estimated from your experience with
 in a series of small-scale trial runs. More tips and tricks are presented in the section “Optimization and Cost Management” below.
 
 Further sources that this client is based on: 
-* The Azure Batch samples at https://github.com/Azure/azure-batch-samples/tree/master/CSharp
+* The Azure Batch samples at https://github.com/Azure-Samples/azure-batch-samples/tree/master/Python/Batch
 * The Azure Batch tutorial at https://github.com/Azure-Samples/batch-dotnet-ffmpeg-tutorial
-* The documentation at the Azure Batch .NET namespace https://docs.microsoft.com/en-us/dotnet/api/microsoft.azure.batch?view=azure-dotnet
+* The documentation at the Azure Batch Python namespace https://docs.microsoft.com/en-us/python/api/overview/azure/batch?view=azure-python
 
 
 ### Getting started
